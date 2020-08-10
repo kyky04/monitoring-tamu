@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934175898146",
+    "firebase_url": "https://monitoring-691cb.firebaseio.com",
+    "project_id": "monitoring-691cb",
+    "storage_bucket": "monitoring-691cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934175898146:android:9b2bca52eccb2f7109e87b",
+        "android_client_info": {
+          "package_name": "com.pionir.monitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934175898146-l5au9qqimfv4vu80bh28c5rjh4f7nl29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Z7jnQHEGBl_nU-XLKhmu2yni73t4onc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934175898146-l5au9qqimfv4vu80bh28c5rjh4f7nl29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
